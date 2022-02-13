@@ -48,7 +48,6 @@ form{
 
     </form>
 </div>
-
 <?php 
 include("fonctions.php");
 
