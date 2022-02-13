@@ -12,5 +12,4 @@ function permute($n1,$n2,$temp){
     return 0;
 }
 
-
 ?>
