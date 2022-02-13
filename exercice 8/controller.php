@@ -41,7 +41,6 @@ if(isset($_POST['valider'])){
     header('location:index.php');
     exit();
 }
-
 ?>
 </body>
 </html>
