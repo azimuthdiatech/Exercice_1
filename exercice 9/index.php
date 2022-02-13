@@ -40,7 +40,6 @@ form{
             <span style="color:red"><?php echo $_SESSION['error']['mult'] ?></span>
       <?php session_unset(); endif?> <br/>
       
-
       <br/>
       <input type="submit" name="ok" id="" value="Valider">
   </fieldset>
