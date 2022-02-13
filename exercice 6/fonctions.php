@@ -16,7 +16,6 @@
    function estVide($nbre):bool{
     return empty($nbre);
     }
-
     function equationSecondDegre(float $a, float $b, float $c):void{
         $delta=($b*$b)-(4*$a*$c);
         if($delta<0){
