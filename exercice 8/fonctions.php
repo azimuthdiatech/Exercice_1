@@ -14,6 +14,6 @@ function validNombre($nbr,string $key,array &$arrError ):void{
    }
 function listeUl($list):void{
     for ($i=1; $i<=$list; $i++){
-        echo "<ul><li>Nombre $i</li></ul>";
+         echo "<ul><li>Nombre $i</li></ul>";
         }
     }
