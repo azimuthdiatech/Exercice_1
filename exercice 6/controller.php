@@ -1,6 +1,5 @@
 <?php 
 include_once("fonctions.php");
-
   session_start();
 if(isset($_POST['ok'])){
     $a=$_POST['a'];
