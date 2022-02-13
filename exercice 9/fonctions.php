@@ -7,7 +7,7 @@ function validNombre($nbre,string $key,array &$arrError ):void{
             $arrError[$key]="Veullez saisir un nombre";
         }else{
             if($nbre<0){
-                $arrError[$key]="Veullez saisir un nombre positif";
+                 $arrError[$key]="Veullez saisir un nombre positif";
             }
         }
     }
