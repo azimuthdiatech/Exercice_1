@@ -24,6 +24,5 @@ include_once("fonctions.php");
     distance($xa,$xb,$ya,$yb);
     
 ?>
-
 </body>
 </html>
