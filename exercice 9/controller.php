@@ -41,7 +41,6 @@ if(isset($_POST['ok'])){
     header('location:index.php');
     exit();
 }
-
 ?>
 </body>
 </html>
