@@ -6,7 +6,4 @@ $n1=rand(VAL_MIN,VAL_MAX) ;
 $n2=rand(VAL_MIN,VAL_MAX) ;
 saisieNombre($n1 ,$n2);
 
-
-
-
 ?>
