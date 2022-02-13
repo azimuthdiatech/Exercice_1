@@ -19,8 +19,7 @@ include_once("fonctions.php");
   //aleatoire entre 1 et 100
     $cote=rand(VAL_MIN,VAL_MAX) ;
     echo "Le Coté est ".  $cote."<br>";
-    calculCarre($cote);
-    
+    calculCarre($cote);   
 ?>
 </body>
 </html>
