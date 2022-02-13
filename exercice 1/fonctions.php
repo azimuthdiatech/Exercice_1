@@ -8,7 +8,6 @@
        echo "La Surface  est $surf <br>";
        echo 'La Diagonale  est '.$diag .'<br>';
    }
-
    //Fonctions 
    function perimetre(int $cote):int{
         return $cote*4; 
