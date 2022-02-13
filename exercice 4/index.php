@@ -8,7 +8,6 @@ body{
   background: linear-gradient(green,yellow,red);
 }
 </style>
-
 <?php 
 include("fonctions.php");
 define("VAL_MIN",1);
