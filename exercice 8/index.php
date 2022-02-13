@@ -39,8 +39,6 @@ form{
       <?php if(isset($_SESSION['error']['list'])):?>
             <span style="color:red"><?php echo $_SESSION['error']['list'] ?></span>
       <?php session_unset(); endif?> <br/>
-      
-
       <br/>
       <input type="submit" name="valider" id="" value="Valider">
   </fieldset>
