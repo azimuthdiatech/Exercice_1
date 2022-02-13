@@ -19,8 +19,7 @@ include_once("fonctions.php");
     echo "La longueur est ". $long."<br>";
     $larg=rand(VAL_MIN,VAL_MAX) ;
     echo "La largeur est ". $larg."<br>";
-    calculrectangle($long,$larg);
-    
+    calculrectangle($long,$larg); 
 ?>
 
 </body>
