@@ -77,7 +77,4 @@
                 
          }echo" La date suivante est ".$jour ."/" .$mois ."/" .$annee;
      }  
-    function dPrecedent($jour,$mois,$annee):void{
-        
-    }
 ?>
