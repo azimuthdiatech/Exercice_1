@@ -9,7 +9,7 @@
     function diagonale(int $cote):float{
         return sqrt(pow($long,2)+pow($larg,2));
     }
-    
+   
    //Procedures
       function calculrectangle(int $long,int $larg):void{
        $peri= ($long+$larg)*2; 
